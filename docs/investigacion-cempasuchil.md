@@ -340,4 +340,95 @@ El cempasúchil es mexicano por su origen biológico y por su historia cultural.
 
 ---
 
+## Anexo de Toxicología Ambiental y Salud Pública (Octubre 2026)
+
+### Conclusión principal
+
+El cempasúchil (Tagetes erecta) no representa por sí mismo un peligro toxicológico generalizado para las personas que lo utilizan como ornamento. Sin embargo, las flores cultivadas con determinados plaguicidas pueden conservar residuos químicos transferibles al cuerpo humano, especialmente mediante el contacto repetido con pétalos, hojas y tallos.
+
+### Estudios internacionales clave
+
+1. **Chwoyka et al. (2024)** — 94% de plantas ornamentales en maceta y 97% de flores de corte con residuos detectables (Austria y Alemania, 1,000 plantas y 237 muestras).
+
+2. **Toumi et al. (2017)** — Transferencia de residuos desde flores ornamentales a guantes de floristas. 111 sustancias activas detectadas (Bélgica).
+
+3. **Godínez-Pérez et al. (2024)** — Asociaciones entre uso de insecticidas/fungicidas y marcadores inflamatorios (IL-6, IFN-γ) en 108 trabajadores florícolas mexicanos.
+
+4. **BfR (2021)** — No se esperan riesgos relevantes para compradores de flores de corte que cumplen normas de higiene laboral.
+
+### Recomendaciones preventivas
+
+- Lavarse las manos después de manipular flores
+- Usar guantes durante jornadas prolongadas
+- No utilizar flores ornamentales de procedencia desconocida en alimentos
+- Respetar periodos de reingreso en viveros
+
+### Pregunta abierta
+
+¿Qué residuos llegan al consumidor final en las flores de cempasúchil vendidas en Xochimilco y en qué concentraciones?
+
+---
+
+## Anexo Científico: Ecología, Ecotoxicología y Conservación de Ambystoma mexicanum
+
+### Hipótesis central
+
+Existe fundamento científico para plantear que determinadas prácticas de floricultura intensiva pueden introducir contaminantes al suelo y a los canales de Xochimilco, con consecuencias potencialmente graves para los anfibios y, especialmente, para las etapas embrionarias y larvarias del ajolote.
+
+### Tres investigaciones clave
+
+1. **Robles-Mendoza et al. (2009)** — Toxicidad de clorpirifos y malatión en embriones y larvas de ajolote. Efectos sobre mortalidad, eclosión, desarrollo, malformaciones y comportamiento.
+
+2. **Castán-Aquino et al. (2020)** — Malatión y diclorvós en desarrollo del ajolote. Eclosión prematura, mayor mortalidad, menor tamaño y anomalías morfológicas.
+
+3. **Guadarrama-Guzmán et al. (2024)** — Plaguicidas organoclorados en canales de Xochimilco (Apatlaco y Ampampilco).
+
+### Evidencia cuantitativa de organoclorados en canales
+
+| Sustancia | Concentración en agua | Sitio |
+|-----------|----------------------|-------|
+| Aldrín | 9.54 µg/L | APA1 |
+| Dieldrín | 48.42 µg/L | AMP2 |
+| Endosulfán I | 29.91 µg/L | APA1 |
+| Endosulfán II | 63.97 µg/L | APA1 |
+
+### Cuatro hipótesis biológicas sobre el ajolote
+
+1. **Alteraciones del desarrollo embrionario** — Los huevos no tienen barrera universal contra sustancias disueltas.
+2. **Mayor vulnerabilidad de las larvas** — Las larvas son más sensibles que los embriones.
+3. **Estrés fisiológico en juveniles y adultos** — Branquias y piel son vías de absorción.
+4. **Reducción de alimento disponible** — Insecticidas afectan invertebrados de la red trófica.
+
+### Fungicidas y anfibios
+
+- **Piraclostrobina:** LC50 aguda 5–18 µg/L (96h) en larvas de anfibios
+- **Clorotalonil:** LC50 aguda 15–50 µg/L (96h)
+- Las salamandras fueron ~3x más sensibles que los anuros
+
+### Evidencia de San Gregorio Atlapulco (2024–2026)
+
+- 8 de 9 eventos con nitratos mayores en el exterior del biofiltro
+- 9 de 9 eventos con conductividad superior en el exterior
+
+### Propuesta científica
+
+12 puntos de muestreo, 4 ventanas temporales (junio-diciembre), análisis multirresiduo LC-MS/MS y GC-MS/MS, separación de agua y sedimento, caracterización de macroinvertebrados.
+
+### Referencias científicas prioritarias
+
+- Robles-Mendoza et al. (2009) — Chemosphere
+- Castán-Aquino et al. (2020) — Revista Internacional de Contaminación Ambiental
+- Guadarrama-Guzmán et al. (2024) — Ingeniería, Investigación y Tecnología, UNAM
+- Chwoyka et al. (2024) — Springer Nature
+- Toumi et al. (2017) — PubMed
+- Godínez-Pérez et al. (2024) — PubMed
+- BfR (2021) — Bundesinstitut für Risikobewertung
+- Bautista Villalobos (2015) — Tesis UNAM
+
+---
+
+*Santuario Ajolote · CIMA A.C.*  
+*Investigación documental, corte 25 de octubre de 2026.*  
+*Prohibida la atribución individual de contaminación sin evidencia analítica y derecho de respuesta.*
+
 *Sitio web: https://axolotfinder.org*
